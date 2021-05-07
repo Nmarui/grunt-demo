@@ -4,7 +4,7 @@
   "description": "",
   "main": "rectangle.js",
   "dependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.3.0",
     "grunt-contrib-csslint": "^2.0.0"
   },
   "devDependencies": {},
